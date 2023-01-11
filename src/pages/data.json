@@ -1,0 +1,14 @@
+[
+    {
+      "variable": "cat name",
+      "var_value": "catty"
+    },
+    {
+      "variable": "dog name",
+      "var_value": "doggy"
+    },
+    {
+      "variable": "name",
+      "var_value": "Jak"
+    }
+  ]
